@@ -3,7 +3,7 @@
 
 Integrantes (3 a 4) Ikalímony Helissa, Ana Beatriz Costa, Estefani Maria>
 Turma	3º ano — Ensino Médio
-Repositório	https://github.com/<usuario>/<repositorio>
+Repositório	https:(https://github.com/ihm-cell/projeto-final-farmacessivel)
 Data de preenchimento	09/09/2026
 Entrega final	10/12/2026
 🧩 Bloco 1 — Nome e pitch do app
